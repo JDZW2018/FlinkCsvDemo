@@ -1,0 +1,4 @@
+click|1
+view|6
+add|5
+remove|4
